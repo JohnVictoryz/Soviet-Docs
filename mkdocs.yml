@@ -1,5 +1,9 @@
 site_name: Soviet-Docs
+markdown_extensions: 
+  - pymdownx.escapeall:
+      hardbreak: True
 theme:
+  logo: https://avatars.githubusercontent.com/u/103000415?s=200&v=4
   name: material
   palette:
     scheme: slate
