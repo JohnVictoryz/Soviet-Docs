@@ -28,6 +28,6 @@ it to be as simple as possible.
     -  `-ow` or `--overwrite` this overwrites installed packages
     -  `-dbg` or `--debug` followed by a number from 0 to 4 to indicate the debug level
     -  `--verbose` this swtiches to verbose output
-    -  `-pkg` or `--package` followed by a path to an [.ecmp file](../Developer%20Documentation/ecmp.md) to install directly from the file
+    -  `-pkg` or `--package` followed by a path to an [.ecmp file](../Developer%20Documentation/Making Packages.md) to install directly from the file
 
 *Advanced Options should only be used if you know what you are doing*

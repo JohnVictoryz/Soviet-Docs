@@ -3,7 +3,7 @@ markdown_extensions:
   - pymdownx.escapeall:
       hardbreak: True
 theme:
-  logo: https://avatars.githubusercontent.com/u/103000415?s=200&v=4
+  logo: https://github.com/JohnVictoryz/Soviet-Docs/blob/main/Soviet-Logo.png?raw=true
   name: material
   palette:
     scheme: slate
