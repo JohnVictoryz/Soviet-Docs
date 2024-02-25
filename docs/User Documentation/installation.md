@@ -32,14 +32,14 @@ podman run -it --rm ghcr.io/soviet-linux/soviet:latest /bin/bash
 2. Unpack the image
     After you donwload the image to unpack it just run:
 
-    ```bash
+    ```
     tar -xf "/path/to/soviet.tar.gz"
     ```
 
 3. Create chroot
     To create the chroot environment you just run:
 
-    ```bash
+    ```
     sudo chroot "/path/to/soviet"
     ```
 
@@ -56,14 +56,14 @@ podman run -it --rm ghcr.io/soviet-linux/soviet:latest /bin/bash
 2. Unpack the image
     After you donwload the image to unpack it just run:
 
-    ```bash
+    ```
     tar -xf "/path/to/soviet.tar.gz"
     ```
 
 3. Create systemd-nspawn
     To create the systemd-nspawn environment you just run:
 
-    ```bash
+    ```
     systemd-nspawn -bD "/path/to/soviet"
     ```
 
