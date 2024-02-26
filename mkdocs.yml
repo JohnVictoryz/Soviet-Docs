@@ -1,7 +1,6 @@
 site_name: Soviet-Docs
 plugins:
   - search
-
 markdown_extensions: 
   - pymdownx.highlight:
       anchor_linenums: true
