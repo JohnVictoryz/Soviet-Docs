@@ -80,12 +80,12 @@ This section contains a list of the dependencies needed by the package at compil
 
 #### `[install]` Section
 
-This section is basically a bash script that will install the package by the commands you provide  \
+This section is basically a [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) script that will install the package by the commands you provide  \
 (**Required**)
 
 #### `[special]` Section
 
-This section is a bash script that runs after the installation of a package  \
+This section is a [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) script that runs after the installation of a package  \
 (**Not Required**)
 
 ## Important info about the .ecmp files

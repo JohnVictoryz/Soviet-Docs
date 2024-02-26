@@ -70,7 +70,8 @@ After getting [spm-test](https://github.com/Soviet-Linux/spm-utils/blob/main/spm
     git add -A
     ```
 
-    Then to commit the changes(it is preffered to sign the commit so they are verified you can for more info visit [this](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)):
+    Then to commit the changes(it is preffered to sign the commit so they are verified you can visit [this](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) for more information)
+    
     Without signing:
 
     ```
